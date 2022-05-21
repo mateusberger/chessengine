@@ -1,2 +1,2 @@
 # chessengine
-Chess engine
+Chess Game
